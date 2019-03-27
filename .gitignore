@@ -1,2 +1,4 @@
 .idea/
 venv/
+study_pytest/__pycache__/test_sample1.cpython-36-PYTEST.pyc
+study_pytest/__pycache__/test_sample2.cpython-36-PYTEST.pyc
