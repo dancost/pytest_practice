@@ -1,9 +1,8 @@
 .idea/
 venv/
-study_pytest/__pycache__/test_sample1.cpython-36-PYTEST.pyc
-study_pytest/__pycache__/test_sample2.cpython-36-PYTEST.pyc
-study_pytest/__pycache__/test_basic_fixture.cpython-36-PYTEST.pyc
+.pytest_cache
+study_pytest/result.xml
+practice_framework/.pytest_cache
+practice_framework/__pycache__/
 study_pytest/reports/
-study_pytest/__pycache__/conftest.cpython-36-PYTEST.pyc
-study_pytest/__pycache__/test_basic_fixture2.cpython-36-PYTEST.pyc
-study_pytest/__pycache__/test_addition.cpython-36-PYTEST.pyc
+study_pytest/__pycache__/
