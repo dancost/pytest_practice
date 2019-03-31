@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skipped="3" tests="6" time="1.071"><testcase classname="test_addition" file="test_addition.py" line="10" name="test_add_1" time="0.007"><skipped message="unconditional skip" type="pytest.skip">test_addition.py:10: unconditional skip</skipped></testcase><testcase classname="test_addition" file="test_addition.py" line="14" name="test_add_2" time="0.005"><skipped message="unconditional skip" type="pytest.skip">test_addition.py:14: unconditional skip</skipped></testcase><testcase classname="test_addition" file="test_addition.py" line="18" name="test_add_3" time="0.011"></testcase><testcase classname="test_addition" file="test_addition.py" line="22" name="test_add_4" time="0.010"><skipped message="expected test failure"></skipped></testcase><testcase classname="test_addition" file="test_addition.py" line="27" name="test_add_5" time="0.006"></testcase><testcase classname="test_addition" file="test_addition.py" line="31" name="test_add_6" time="0.013"><failure message="AssertionError: falied
+assert 5 == 6
+  -5
+  +6">def test_add_6():
+&gt;       assert 3+2 == 6, &quot;falied&quot;
+E       AssertionError: falied
+E       assert 5 == 6
+E         -5
+E         +6
+
+test_addition.py:33: AssertionError</failure></testcase></testsuite>
